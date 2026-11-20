@@ -1,7 +1,6 @@
 # Randomised-EM-Method-for-SDEs-with-Holder-Continuous-Drift-Coeffient-Driven-by--Stable-Levy-Process
 
-This repository implements numerical experiments for simulating stochastic differential equations (SDEs) driven by α-stable Lévy processes, using a Randomised Euler–Maruyama scheme under Hölder continuous drift conditions. The associated paper can be found here: https://arxiv.org/abs/2507.11429
-
+This repository implements numerical experiments for simulating stochastic differential equations (SDEs) driven by α-stable Lévy processes, using a Randomised Euler–Maruyama scheme under Hölder continuous drift conditions. 
 ## 📁 Project Structure
 
 - `main.py` — Main script to run experiments using `.config` files
